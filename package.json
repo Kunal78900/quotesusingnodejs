@@ -7,7 +7,7 @@
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Manav Jhamb",
+  "author": "kunal",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
@@ -17,5 +17,14 @@
     "method-override": "^3.0.0",
     "mongoose": "^6.2.10",
     "nodemon": "^2.0.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunal78900/quotesusingnodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kunal78900/quotesusingnodejs/issues"
+  },
+  "homepage": "https://github.com/Kunal78900/quotesusingnodejs#readme"
 }
